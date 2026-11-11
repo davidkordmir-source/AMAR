@@ -1,0 +1,7 @@
+e8115d1f6537bb23e3e35ea2f2460aa502ba56604172b8d03ac3aa61a28aa535  AMAR-Setup-v0.8.0-x64.exe
+483b859b662ddbe45c19e318f37dfd8c3cd8b2e3ea2c2e254993312f8926d229  AMAR-Setup-v0.8.0-x64.sha256
+5c251ea2be81cbd17142b78ba5af4345c75dbc810067602005dc5da44688e38f  AMAR-Install-and-Branding-v0.8.0-fa.pdf
+e6ecc1e1aa3195211c37f902ec3aea71336f3255423b6c0e84b8f8ecf0361fcf  AMAR-Maker-v0.8.0-Windows-Keyless.zip
+34590cdac07cb938ecc32a657f5cb0c750ff91710d15b65b2e9e62dbf0de67a1  AMAR-Maker-v0.8.0-Windows-Keyless.sha256
+2952ade2f1817a542e43209cde3c29f4a406624a90e5e1bd91c5902d46e2a8bb  READ-ME-fa.txt
+b0bb6eeca4b0573c299073e8dcf3afedfa90008f065867c1da13d14290eeff7f  Pilot-fa.md
